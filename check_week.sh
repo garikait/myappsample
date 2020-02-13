@@ -1,3 +1,5 @@
+###Garikai Tachiwona e-IT
+
 #!/bin/bash
 echo -e "Checking is we should run this script\n====\n"
 if [ -f count_week.txt ]; then week_number=`cat count_week.txt`; else week_number=1; fi
