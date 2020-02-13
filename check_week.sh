@@ -15,3 +15,4 @@ if [ $week_number -le 3 ]
        echo 1 > count_week.txt 
 fi
 
+### EOF
